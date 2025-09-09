@@ -1,0 +1,15 @@
+# Build directories
+builddir/
+
+# Python cache
+__pycache__/
+
+# IDE files
+.vscode/
+
+# OBS reference files
+obs-force-github-update.txt
+obs-rebuild-commands.txt
+
+help
+
